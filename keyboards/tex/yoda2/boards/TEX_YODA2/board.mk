@@ -1,0 +1,2 @@
+BOARDSRC += $(BOARD_PATH)/boards/TEX_YODA2/board.c
+BOARDINC += $(BOARD_PATH)/boards/TEX_YODA2
